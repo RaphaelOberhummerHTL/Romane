@@ -1,0 +1,67 @@
+Name der Spezies: Xyloth
+
+Name des Heimatplaneten: Helose
+
+Aussehen
+Die Xyloth besitzen einen insektenartigen Körperbau, der sie sofort als außerirdisch erkennbar macht. Ihr Körper ist von einem schillernden Exoskelett bedeckt, das je nach Lichteinfall in Grün-, Blau- oder Violetttönen glänzt.
+Sie verfügen über sechs Gliedmaßen:
+	• Zwei vordere Arme: Hochentwickelte Greifwerkzeuge, die feinmotorische Manipulationen ermöglichen.
+	• Vier hintere Beine: Gewährleisten Stabilität und schnelle Bewegungen.
+Der Kopf ist mit Facettenaugen ausgestattet, die nahezu ein 360-Grad-Sichtfeld bieten. Zwei lange, bewegliche Antennen dienen sowohl der Wahrnehmung als auch der Kommunikation. Anders als irdische Insekten sind Xyloth warmblütig, was durch interne Wärmeregulationsmechanismen und spezielle Drüsen möglich ist.
+	• Größe: Durchschnittlich 1,5 Meter auf den vier Hinterbeinen.
+
+Kommunikation
+Xyloth kommunizieren auf zwei Ebenen:
+	1. Chemische Sprache:
+		o Über spezielle Drüsen in Antennen und Greifwerkzeugen werden komplexe chemische Signale abgegeben.
+		o Diese Signale übertragen:
+			 Emotionen (z. B. Freude, Angst)
+			 Gedanken oder komplexe Konzepte
+			 Wissen und Erinnerungen – ähnlich einem biologischen Datenpaket
+	2. Akustische Sprache:
+		o Klick- und Summgeräusche, erzeugt mit Mundwerkzeugen.
+		o Dient primär der schnellen Koordination; tiefere Kommunikation erfolgt über chemische Signale.
+
+Gesellschaft und Regierung
+Xyloth leben in hierarchischen Kolonien, die den sozialen Strukturen von Ameisen oder Bienen ähneln, jedoch mit einem Unterschied: Jedes Individuum ist hochintelligent und autonom.
+Die Hierarchie basiert auf:
+	• Fähigkeit zur chemischen Kommunikation
+	• Spezialisierung in Rollen:
+		o Wächter: Schutz der Kolonie
+		o Forscher: Technologische Entwicklung und Umweltbeobachtung
+		o Pfleger: Versorgung der Jungen und Instandhaltung der Infrastruktur
+Entscheidungen werden durch einen Prozess des chemischen Konsenses getroffen: Mitglieder tauschen Signale aus, bis eine gemeinsame Lösung gefunden ist.
+
+Entwicklung und Übergangsritual
+Die Xyloth durchlaufen drei Lebensphasen:
+	1. Larvenphase (0–5 Jahre):
+		o Weiche, schutzbedürftige Larven ohne Exoskelett
+		o Keine Fähigkeit zur chemischen Kommunikation
+		o Vollständige Versorgung durch Pfleger
+	2. Jugendphase (5–10 Jahre):
+		o Ausbildung des Exoskeletts
+		o Erlernen einfacher chemischer Signale
+		o Einführung in gesellschaftliche Grundlagen und Übung künftiger Rollen
+	3. Übergangsritual (10 Jahre):
+		o Intensiver Austausch chemischer Signale mit der gesamten Kolonie
+		o Aktivierung neurochemischer Drüsen
+		o Integration in das kollektive Wissen und Netzwerk der Kolonie
+		o Ohne dieses Ritual bleiben Kommunikationsfähigkeiten eingeschränkt, was soziale Isolation und kognitive Defizite nach sich zieht
+	4. Erwachsenenphase (ab 10 Jahren):
+		o Wahl der Rolle in der Gesellschaft
+		o Vollwertiges Mitglied der Kolonie
+
+Interaktion mit anderen Spezies
+	• Friedlich und kooperativ, aber Fremden gegenüber zunächst misstrauisch
+	• Handel mit Ressourcen für chemische Kommunikation (z. B. Kristalle, organische Verbindungen)
+	• Verteidigung nur bei Bedrohung
+	• Vergleich zu den Zhyara: zurückhaltender und weniger diplomatisch, aber konfliktvermeidend
+
+Kultur und Wirtschaft
+	• Zahlensystem: Basis 6, basierend von ihren sechs Gliedmaßen
+	• Währung: Xylo-Kristalle – seltene Kristalle
+
+Technologie und Raumfahrt
+	• Raumfahrtfähige Zivilisation
+	• Kommunikations- und Antriebssysteme ermöglichen Reisen und Nachrichtenübermittlung innerhalb von 25 Lichtjahren
+

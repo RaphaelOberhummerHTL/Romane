@@ -1,0 +1,107 @@
+Name der Spezies: Zhyara
+
+Name des Heimatplaneten: Zeala
+
+Aussehen:
+Deren Hautfarbe verändert sich je nach emotionalem Zustand. Bei mehreren Emotionen gleichzeitig werden mehrere Farben gleichzeitig angezeigt und diese verlaufen dann über den Körper. Die Muster und genaue Aufteilung der Farben ändert sich je nach Individum und Charakter des Individums.
+Rot → Konzentration & analytisches Denken
+    • Dunkelrot → Tiefe Konzentration, logisches Denken. 
+    • Helles Rot → Plötzliche Erkenntnis, Lösung eines Problems. 
+    • Rot mit violettem Schimmer → Begeisterung für eine intellektuelle Herausforderung. 
+Blau → Gefahr, Verteidigungsmodus & Stress
+    • Dunkelblau → Hohe Bedrohung, Kampfbereitschaft. 
+    • Helles Blau → Unerwartete Situation, hohe Anspannung. 
+    • Blau mit wellenförmigem Verlauf → Stress oder Überforderung.
+Orange → Diplomatie, Zusammenarbeit & soziale Offenheit
+    • Helles Orange → Freundliches Interesse. 
+    • Dunkelorange → Intensive Zusammenarbeit, Verhandlung. 
+    • Rötlich-Orange → Begeisterung für ein Projekt oder eine Idee. 
+Grün → Emotionale Intimität, Vertrauen & Verbundenheit
+    • Blassgrün → Freundschaftliche Zuneigung. 
+    • Dunkelgrün → Tiefe Vertrautheit (Familie, enge Freunde).
+    • Sattes Smaragdgrün → Starke emotionale Bindung oder Liebe. 
+Violett → Vorfreude & Begeisterung
+    • Helles Violett → Neugier, freudige Erwartung. 
+    • Dunkelviolett → Tiefgehende kreative Inspiration oder große Vorfreude. 
+    • Violett mit leichten Farbwechseln → Euphorische Aufregung. 
+Schwarz → Höfliche Zurückhaltung & Neutralität
+    • Tiefschwarz → Keine Emotion zeigen wollen, Schutzmodus. 
+    • Grau-schwarz → Emotionale Erschöpfung, Traurigkeit. 
+    • Mattschwarz → Ein bewusstes Signal für „Ich möchte nicht gestört werden“.
+Weiß → Instinktives Verhalten & Reflexe
+    • Reinweiß → Automatisches Handeln ohne bewusste Kontrolle. 
+    • Weiß mit grauen Schattierungen → Leichte Verwirrung oder Orientierungslosigkeit. 
+    • Bläulich-weiß → Entspannung und Ruhezustand. 
+Zusätzliche Emotionen & ihre Farben
+Sexuelle Bereitschaft
+    • Hellrosa → Erste Anzeichen von sexueller Interesse. 
+    • Dunkleres Pink → Aktive sexuelle Bereitschaft. 
+    • Leicht pulsierendes Rosa → Starke erotische Anziehung. 
+Zufriedenheit
+    • Sanftes Pfirsich → Alltägliche Zufriedenheit. 
+    • Dunkelgrün mit leichtem Braunanteil → Zufriedenheit mit der Umgebung. 
+    • Weiches Gold → Tiefe, erfüllte Zufriedenheit. 
+Vorfreude
+    • Violett mit leichtem Funkeln → Euphorische Erwartung. 
+    • Leichte Farbverläufe zwischen Violett & Blau → Neugier & Freude kombiniert. 
+    • Türkis mit kleinen Lichtreflexen → Positive Spannung. 
+Freude & Glück
+    • Leuchtendes Orange → Fröhlichkeit. 
+    • Sonnengelb mit weißem Schimmer → Starke Freude. 
+    • Gelb mit goldenem Funkeln → Heitere Unbeschwertheit.
+
+DNA/RNA/Proteine:
+Diese sollten auf diesem Planeten für alle Lebewesen aus der irdischen Sicht spiegelverkehrt sein.
+
+Gesellschaft und Regierung:
+Die Zhyara werden durch eine planetare und direkte Demokratie regiert, die auf direkter Mitbestimmung basiert. Gesellschaftlicher Zusammenhalt, Fortschritt und semikollektives Denken (kollektives Denken wird zwar bei gesellschaftlichen Fragen geschätzt, jedoch wird auch auf Individualität Wert gelegt, wenn eine Entscheidung nur für einzelne der Spezies zutrifft; Dieses semikollektive Denken folgt so ab, dass bei wichtigen Entscheidungen die Vertreter einer Region sich sich zusammensetzen und über dieses Thema diskutieren, aber mit dem verinnerlichten Ziel, allen zu helfen ohne das es jemanden schlechter geht) sind zentrale Werte ihrer Kultur.
+Die Regierung übernimmt hauptsächlich Aufgaben wie:
+    • Planung, dass alle Zugang zu sauberen Wasser haben
+    • Planung, dass alle Zugang zu einer Wohnung haben
+    • Planung, dass alle Zugang zu einer Ausbildung haben
+    • Planung, dass alle Zugang zu einer Krankenversorung haben
+    • Planung, dass alle in der Arbeit eine Sichere Umgebung vorfinden
+Die Beamten werden nicht anders behandelt, als Individuen, welche ähnliche Aufgaben in der Wirtschaft übernehmen.
+Die Beamten, welche Gesetze erlassen, damit diese Situation auch so bleibt, werden alle 5 Jahre neu gewählt, und für eine solche Position muss man 30 und 100 Jahre alt sein, damit man eine gewisse Lebenserfahrung hat, jedoch nicht zu alt ist um zu star zu sein. Man kann auch nur einmal gewählt werden und ist dann 5 Jahre im Amt. Das durchschnittliche Höchstalter ohne medizinscher Versorgung ist 140 und mit medizinscher Versorgung 168 Jahre.
+Die Gesellschaft funktioniert so, dass sich alle an das Mantra 'jede Entscheidung muss jeden Individum, welche die Entscheidung betroffen hatte, nachher besser gehen als vorher' halten, was jedoch in dem semikollektiven Denken veranktert ist.
+Die gesprochene Sprache ist 'Tzlissha'. Es existieren mehrere Wörter für 'wir'
+	• wir - alle die in dieser Branche arbeiten
+	• wir - alle aus dieser Stadt/Dorf/Region
+	• wir - alle aus meiner Familie
+	• wir - alle die bei einem Event mitgemacht haben
+	• wir - alle aus dieser Spezies
+	• wir - alle hier anwesenden
+	• wir - alle die in diesem Gespräch involviert sind
+	• wir - alle die eine/diese Entscheidung getroffen hatten
+Es existieren zwar Wörter für 'ich', 'du', 'er' und 'sie', wobei 'er' und 'sie' das gleiche wort ist, aber diese Wörter haben einen nebensächlichen Stellenwert und werden nur dann verwendet, wenn man auf ein Individum und ein eigens erlebtes Ereigniss referenziert. Dadurch wird aus:
+'Als ich vor ein paar Tagen den Fluss hinunter in das Dorf gegangen bin, ist mir aufgefallen, dass die Staumauer bei uns in der Stadt denen das Wasser abgeschnitten hatte und die dadurch eine kleinere Ernte haben als zuvor. Deshalb schlage ich vor, dass wir die Staumauer verkleinern und mehr auf Wind- und Sonnenenergie setzen.'
+zu:
+'Als ich vor ein paar Tagen den Fluss hinunter in das Dorf gegangen bin, wurde es klar, dass deren Ernte nicht so gut ausfil, als normaler Weise. Das liegt daran, dass wir in dieser Stadt eine Staumauer für die Stromerzeugung gebaut hatten, und weniger Wasser ins Dorf fliest als gewöhnlich Deshalb müssen wir mehr auf Sonne und Wind setzen.'
+Es gibt in dieser Sprache keine Wörter für die Begriffe bzw. Konzepte wie:
+	• Gewinn
+	• Niederlage
+	• Sieg 
+	• Emotionen (Diese werden über die verändernde Hautfarbe/Hautmuster signalisiert)
+Das n-te Wort kommt 2/3 öfter vor als das (n+1)ste Wort, wobei ich, du und das kombinierte Wort für er und sie gleich oft vorkommen sollte. Es gibt nur zwei Artikel (lebend und nicht lebend) und nur einen Fall. Es sollte nur die die Vergangenheit, die Gegenwart und die Zukunft geben.
+Das heißt aus:
+Das Raumschiff wird um 9 angekommen sein.
+wird zu:
+Das Raumschiff wird vor 9 ankommen.
+
+Ein Tag sollte in 28 Zhyara Stunden (14 'helle' Zhyara Stunden und 14 'dunkle' Zhyara Stunden) aufgeteilt sein, eine Zhyara Stunde sollte in 14 Zhyara Minuten aufgeteilt sein, welche wieder in 14 Zhyara Sekunden, welche wieder in 14 Krimmonen aufgeteilt sind.
+Die Zeitrechnung sollte damit angefangen haben, dass zum Sonnenaufgang der Tag mit 0 Uhr beginnt, bei Sonnenuntergang es 14 Uhr ist und bei Sonnenaufgang mit 28 Uhr endet, jedoch mit der Technologie der Tagesbeginn um 6 Uhr am Morgen der westlichen Zeit mit 0 Uhr beginnt und um 18 Uhr westlicher Zeit es 14 Uhr ist.
+
+Ein Tag auf dem Planeten der Zhyara sollte 24 Stunden von der Westlichen Zeitmessung dauern.
+
+Die Siedlungsdichten und -größen der jeweiligen Siedlungsgebieten sind mit den Siedlungsdichten und -größen von dem jeweiligen Equivalent auf der Erde vergleichbar.
+
+Allgemeine Art der Spezies:
+Die Zhyara treiben gerne Handel mit sämptlichen Spezies, wodurch sie Reichtum angehäuft hatten, welcher jedoch nur dann an andere Spezies verteilt werden kann, wenn diese mit ihnen Handel treiben. Bei Kriegerischen Auseinandersetzungen mit dieser Spezies endet es entweder mit einem unentschiedenen Friedensabkommen, oder mit der Niederlage der fremden Spezies. Wenn die andere Spezies verliert, vernichten die Zhyara die andere Spezies jedoch nicht, da sie von Grund auf eine friedliche Spezies sind.
+
+Zahlensystem: 14
+Basiert auf der Zählweise wo man mit dem Daumen alle Knöchel der anderen Finger zählt, und dann mit dem Zeigefinger/Mittelfinger die Knöchel des Daumen zählt.
+
+Währung: Tschrimscha (keine Unterteilung in kleinere Einheiten)
+
+Raumfahrt:
+Die Zhyara besitzen eine Raumfahrt und Kommunikationsgeräte, welche es ihnen ermöglicht, innerhalb von 75 000 Lichtjahren effektiv zu reisen und kommunizieren und ist dadurch zu einer Handelsmacht in der Andromeda Galaxie geworden. Das Teritorium der Zhyara sollte sich jedoch nur auf deren Sternsystem beschränken und im 75 000 Lichtjahre Radius sollte die Spezies nur als Gäste in den Unterkünften von den anderen Spezies sein.

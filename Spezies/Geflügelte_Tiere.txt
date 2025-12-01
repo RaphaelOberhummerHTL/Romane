@@ -1,0 +1,63 @@
+Name des Planetens: Helieal (gemeinsame benennung von Zhyara, Xyloth und Aerav)
+
+1. Geflügelte Pferde
+Größe und Flügel:
+Die Pferde entwickelten zunächst kleine Flügel zur Stabilisierung beim schnellen Laufen über unebenes Gelände. Evolutionär vergrößerten sich diese Flügel, sodass sie heute Gleiten können, aber nicht
+aktiv fliegen.
+	o Gleiten dient Flucht und Ausweichmanövern in Schluchten und unebenem Terrain.
+	o Auf flachen Ebenen wären Flügel weniger nützlich, daher haben diese Pferde dort kleinere Flügel entwickelt (eine Form der lokalen Anpassung).
+	o Tarnung:
+		• Das Fell und die Flügel passen sich farblich an die Umgebung an:
+			 Weiß für Eisregionen
+			 Grau für felsige Schluchten
+			 Gelb für Sandgebiete
+			 Grün für Sümpfe
+		 Rot für eisenreiche Böden
+	o Dies reduziert die Sichtbarkeit vor Raubtieren und erleichtert das Überleben.
+
+Soziale Struktur:
+	o Leben in Rudeln, um die Überlebenschancen zu erhöhen.
+	o Junge Pferde lernen Gleittechniken durch Nachahmung der Älteren, ähnlich wie Vögel Flugtechniken erlernen.
+
+2. Geflügelte Reptilien (Raubtiere)
+	• Größe: Hundegroß, agil und aerodynamisch.
+	• Flügel: Voll funktionsfähige Flügel zum aktiven Jagen, besonders in Schluchten und unebenem Gelände.
+	• Taktiken:
+		o Jagd in Rudeln, die Gleiteinheiten der Pferde ausnutzen.
+		o Kooperative Jagd: einige fliegen über Schluchten, andere treiben Beute in das offene Gelände.
+	• Evolutionärer Druck:
+		o Pferde entwickeln Tarnung und Gleitfähigkeiten → Reptilien entwickeln bessere Manövrierfähigkeit → Pferde entwickeln größere Rudel, schärfere Reaktionen, noch effektivere Tarnung.
+
+3. Planetare Geographie und Vegetation
+	• Zonen:
+		o Eisregionen (weiß): Nährstoffreiche Moose, Flechten, tiefwurzelige Pflanzen.
+		o Felsige Gebiete (grau): Karge, robuste Pflanzen mit tiefen Wurzeln.
+		o Sanddünen (gelb): Sukkulente Pflanzen, die Feuchtigkeit speichern.
+		o Sümpfe (grün): Üppige Wasserpflanzen, Gräser und fleischfressende Pflanzen.
+		o Eisenreiche Böden (rot): Eisen-tolerante Pflanzen, die Mineralien aufnehmen.
+	• Schluchten und Unebenheiten:
+		o Erhöhen die Selektionsdruck für Gleiten und Wendigkeit.
+		o Bieten Rückzugsräume und Nistplätze für Pferde und Reptilien.
+
+4. Biochemische Besonderheiten
+	• Links-drehende DNA/RNA:
+		o Alle Organismen auf dem Planeten haben spiegelbildliche Nukleinsäuren, was bedeutet, dass irdische Bakterien/Viren ihnen nicht schaden können.
+	• Rechts-drehende Proteine:
+		o Spiegelbildliche Enzyme und Strukturen, die dennoch die gleichen biochemischen Funktionen wie auf der Erde erfüllen.
+	• Evolutionäre Konsequenzen:
+		o Mutationen und Evolution folgen den gleichen Prinzipien, aber Proteinfaltung, Stabilität und Interaktion sind spiegelbildlich.
+		o Enzymatische Prozesse für Verdauung, Muskelkontraktion und Sehnen funktionieren spiegelverkehrt, was eine eigenständige, aber funktionell konsistente Biochemie schafft.
+
+5. Anpassungen für ein konsistentes Ökosystem
+	1. Flugfähigkeit:
+		o Pferde: nur Gleiten, nicht aktives Fliegen (reduziert Energieverbrauch).
+		o Reptilien: aktives Fliegen, Jagen in der Luft.
+	2. Tarnung und Farbanpassung:
+		o Pferde passen Fell und Flügel dem Untergrund an, um Raubtieren zu entgehen.
+		o Reptilien könnten saisonal oder lokal gefärbt sein, um nicht zu auffällig zu werden.
+	3. Nahrungsketten:
+		o Pflanzen → Geflügelte Pferde → Geflügelte Reptilien.
+		o Zusätzliche Nahrungsquellen: Insekten, kleine Säugetier-ähnliche Tiere, Pilze (für ökologische Vielfalt).
+	4. Kohabitation und Biodiversität:
+		o Schluchten bieten Nischen: Nistplätze für Reptilien, Verstecke für Pferde.
+		o Sümpfe und Eisregionen dienen als Rückzugsgebiete, wo Raubtiere schwer jagen können.
