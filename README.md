@@ -29,13 +29,13 @@ Der farblich markierte Roman ist der, der in diesem Branch bearbeitet wird.
     A["Das Geschenk, das alles öffnete"] --> B["Misserfolge, die verbinden"]
     B --> C["Vault 9"]
     C --> D["Beyond the Rift"]
-    C -.-> D["Vault 9 (in Nachrichten)"]
+    C -.-> D["Beyond the Rift (Vorfall von Vault 9 ist in den Nachrichten)"]
     
     subgraph In sich geschlossene Romane
         E["CERN – Hingabe im Chaos"]
         F["Inferno in Masken"]
     end
-    style E fill:#ffcc00
+    style D fill:#ffcc00
 ```
 
 ## Wichtiger Hinweis
