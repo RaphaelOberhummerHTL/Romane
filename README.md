@@ -35,7 +35,7 @@ Der farblich markierte Roman ist der, der in diesem Branch bearbeitet wird.
         E["CERN – Hingabe im Chaos"]
         F["Inferno in Masken"]
     end
-    style D fill:#ffcc00
+    style E fill:#ffcc00
 ```
 
 ## Wichtiger Hinweis
