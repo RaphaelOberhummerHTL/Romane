@@ -1,9 +1,6 @@
 # Romane
-
 Dieses Repository ist ein Projekt wo ich (Raphael Oberhummer) meine Romanprojekte speichere. Jeder Roman hat seinen eigenen Branch und der main-Branch besitzt alle Informationen (Filme, Bücher, Ereignisse, etc.), welche in allen Romanen vorkommen oder referenziert werden. Es kann vorkommen, dass sich aus diesen Überschneidungen eigene Romane entstehen, oder einige Romane als Referenzen in den main-Branch kommen, da diese im gleichen Universum spielen.
-
 Wenn die einzelnen Romane fertig geschrieben sind, werden sie mit dem main-Branch gemerched.
-
 Die Namen der Ausgangsromane können sich während des Schreibens ändern, jedoch wird dieser Name erst dann geändert, wenn dieser Roman fertig ist und mit dem main-Branch gemerched wird.
 
 ## Legende des Status der Projekte
@@ -30,14 +27,14 @@ Die Namen der Ausgangsromane können sich während des Schreibens ändern, jedoc
 ```mermaid
 graph
 A["Das Geschenk, das alles öffnete"] --> B["Misserfolge, die verbinden"]
-    B --> C["Vault 9"]
-    C --> D["Beyond the Rift"]
-    C -.-> D["Vault 9 (in Nachrichten)"]  
-    subgraph In sich geschlossene Romane
-        E["CERN – Hingabe im Chaos"]
-        F["Inferno in Masken"]
-    end
+B --> C["Vault 9"]
+C --> D["Beyond the Rift"]
+C -.-> D["Vault 9 (in Nachrichten)"]
+subgraph In sich geschlossene Romane
+E["CERN – Hingabe im Chaos"]
+F["Inferno in Masken"]
+end
 ```
 
 ## Wichtiger Hinweis
-Die Markdown-Datein außerhalb der README.md KÖNNEN Spoiler enthalten, da die Rahmenbedingungen des Romans (Anfangszeitraum und Endzeitraum) festgeschrieben sind. Falls die Zeitspanne groß ist und sich in dieser Zeit viel getan hatte, werden auch kurz die relevantesten Bedingungen am Ende beschrieben sein.
+Die Markdown-Datein außerhalb der README.md KÖNNEN Spoiler enthalten.
