@@ -23,17 +23,18 @@ Die Namen der Ausgangsromane können sich während des Schreibens ändern, jedoc
 - 🟡 Inferno in Masken - Dämonen-Invasion mit spirituellem Twist.
 - 🟡 Beyond the Rift - Sci-Fi-Epos über eine Crew, die durch eine Raum-Zeit-Anomalie in die Andromeda-Galaxie gerät.
 
-
+Der farblich markierte Roman ist der, der in diesem Branch bearbeitet wird.
 ```mermaid
-graph
-A["Das Geschenk, das alles öffnete"] --> B["Misserfolge, die verbinden"]
-B --> C["Vault 9"]
-C --> D["Beyond the Rift"]
-C -.-> D["Vault 9 (in Nachrichten)"]
-subgraph In sich geschlossene Romane
-E["CERN – Hingabe im Chaos"]
-F["Inferno in Masken"]
-end
+    graph
+    A["Das Geschenk, das alles öffnete"] --> B["Misserfolge, die verbinden"]
+    B --> C["Vault 9"]
+    C --> D["Beyond the Rift"]
+    C -.-> D["Beyond the Rift (Vorfall von Vault 9 ist in den Nachrichten)"]
+    
+    subgraph In sich geschlossene Romane
+        E["CERN – Hingabe im Chaos"]
+        F["Inferno in Masken"]
+    end
 ```
 
 ## Wichtiger Hinweis
