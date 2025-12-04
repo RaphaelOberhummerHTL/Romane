@@ -57,10 +57,10 @@ Vault 9 gilt als nahezu unangreifbar und verfügt über weitgehend redundante, v
 - Umschulung zum LKW-Fahrer
 - Tätigkeit im nationalen und internationalen Gütertransport
 
-## Ablauf des Raubüberfalls – Zusammenfassung
+## Ablauf des Raubüberfalls - Zusammenfassung
 Der Einbruch erfolgt an einem Sonntag, unmittelbar nach Schichtbeginn von Max. Durch seine Position in der internen IT erhält er Zugang zu sicherheitsrelevanten Bereichen und kann die Überwachung der Versorgungssysteme umgehen.
 
-### Phase 1 – Sabotage von innen
+### Phase 1 - Sabotage von innen
 Max sorgt dafür, dass die Wachen nach kurzer Zeit außer Gefecht gesetzt werden. Dabei hinterlässt er aufgrund seiner Vorbereitung praktisch keine verwertbaren Spuren. Anschließend:
 
 - manipuliert er die Live-Kamerasystemschnittstelle und löscht aktuelle Aufnahmen
@@ -70,7 +70,7 @@ Max sorgt dafür, dass die Wachen nach kurzer Zeit außer Gefecht gesetzt werden
 
 Dies bildet später einen entscheidenden Ermittlungsansatz.
 
-### Phase 2 – Vorbereitung des Transports
+### Phase 2 - Vorbereitung des Transports
 Während Max den Zugang freischaltet, führen Freya und Hunter die externe Logistik durch.
 
 Freya hat im Vorfeld unauffällig:
@@ -84,7 +84,7 @@ Hunter beschafft:
 
 Die Drohnen können in Formationen arbeiten und transportieren jeweils schwere Lasten.
 
-### Phase 3 – Der eigentliche Raub
+### Phase 3 - Der eigentliche Raub
 Nach der Wiedervereinigung des Trios am Gelände beginnt die eigentliche Operation:
 - Die Drohnenflotten arbeiten in einem rotierenden System, um das Gold aus drei der vier Lagerräume zu entfernen
 - Die Route zwischen Lastenaufzug und Fahrzeugen ist automatisiert
@@ -92,7 +92,7 @@ Nach der Wiedervereinigung des Trios am Gelände beginnt die eigentliche Operati
 
 Der vierte Lagerraum bleibt aufgrund logistischer Grenzen unangetastet.
 
-### Phase 4 – Rückzug
+### Phase 4 - Rückzug
 Nachdem genug Gold verladen ist, deaktiviert Max sein eigenes Löschskript mit einer Verzögerung, sodass sein Abzug nicht erfasst wird. Das Skript löscht sich danach selbst.
 
 ## Auftreten in weiteren Romanen
