@@ -38,5 +38,7 @@ Der farblich markierte Roman ist der, der in diesem Branch bearbeitet wird.
     style D fill:#ffcc00
 ```
 
-## Wichtiger Hinweis
+## Wichtige Hinweise
 Die Markdown-Datein außerhalb der README.md KÖNNEN Spoiler enthalten.
+
+Die Romane werden in den odt Datein gepeichert. Diese wurden in LibreOffice geschrieben, können aber auch in Microsoft Word, Google Docs und ähnlichen Programmen geöffnet werden, jedoch kann sich dabei die Seitenanzahl verändern. Da es keine relevanten Formatierungen (Es sind nur unterschieliche Schriftgrößen, fett und kursiv geschriebene Schrift vorhanden) eingebunden wurden, ist die potentielle Formatierungsänderung bei aufwendigeren Formatierungen irrelevant.
